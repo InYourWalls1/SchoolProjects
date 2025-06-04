@@ -1,4 +1,5 @@
 Esecuzione del programma:
+*è necessario avere un mezzo per eseguire i file python.
 *al primo utilizzo, o quando si sposta il programma in una nuova cartella, è possibile che l'icona del file "Dice" (o Dice.lnk) scompaia. per ripristinarla basta eseguire il file "setup_link.bat" (come tutti i file, basta fare click su di esso per due volte affinché si apra).
 *è possibile eseguire il programma sia cliccando il file .py sia cliccando il file "Dice". Quest'ultimo è utile se si vuole avere il programma nel menù start o nella taskbar.
 
