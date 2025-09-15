@@ -14,3 +14,4 @@ Funzionalità:
 i comandi possono essere inseriti in successione, avendo la possibilità di creare comandi complessi come:
 "advroll 20 disroll 90 roll 15", che tirerà un dado vantaggioso da 20, un dado svantaggioso da 90 e un dado normale da 15.
 *infine l'opzione 0. permette di uscire dal programma.
+
